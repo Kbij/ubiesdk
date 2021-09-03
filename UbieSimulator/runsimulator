@@ -1,0 +1,13 @@
+#!/bin/bash
+cwd=$(pwd)
+
+export LD_LIBRARY_PATH=$cwd/lib/
+#./UbieSimulator -host 192.168.12.86 -port 8447 -v 3
+#./UbieSimulator -host 192.168.12.150 -port 8448  -logtostderr
+#./UbieSimulator -host 192.168.10.196 -port 8447  -logtostderr
+./UbieSimulator -mqttbroker "ssl://be-test.mqtt.ubiecloud.com:8883" -logtostderr
+#./UbieSimulator -mqttbroker "ssl://192.168.12.56:8883"  -logtostderr
+
+
+
+

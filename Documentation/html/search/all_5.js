@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['favorites',['favorites',['../structSdkNs_1_1SpeakerSystemDef_1_1HistoryState.html#ac39532e75881bc80a4fdf9eeeeda3a00',1,'SdkNs::SpeakerSystemDef::HistoryState::favorites()'],['../classSdkNs_1_1SpeakerSystemIf.html#a98a1e226dd357876c3b1089e01ac135c',1,'SdkNs::SpeakerSystemIf::favorites()']]],
+  ['favoritesconf',['favoritesConf',['../structSdkNs_1_1SpeakerSystemDef_1_1favoritesConf.html',1,'SdkNs::SpeakerSystemDef::favoritesConf'],['../structSdkNs_1_1SpeakerSystemDef_1_1favoritesConf.html#a8279e6af582a69041c7fa1c0ca65101f',1,'SdkNs::SpeakerSystemDef::favoritesConf::favoritesConf()']]],
+  ['favoritesconfig',['favoritesConfig',['../classSdkNs_1_1SpeakerSystemIf.html#a02b9d4e24fe2930d39293bd886e195df',1,'SdkNs::SpeakerSystemIf']]],
+  ['feed',['feed',['../classSdkNs_1_1UbieSdkIf.html#a310a00f5765155762778c95fa83c9812',1,'SdkNs::UbieSdkIf']]],
+  ['functionblockdeviceclientif',['FunctionBlockDeviceClientIf',['../classSdkNs_1_1FunctionBlockDeviceClientIf.html',1,'SdkNs']]],
+  ['functionblockdeviceclientif_2eh',['FunctionBlockDeviceClientIf.h',['../FunctionBlockDeviceClientIf_8h.html',1,'']]],
+  ['functionblockdeviceif',['FunctionBlockDeviceIf',['../classSdkNs_1_1FunctionBlockDeviceIf.html',1,'SdkNs']]],
+  ['functionblockdeviceif_2eh',['FunctionBlockDeviceIf.h',['../FunctionBlockDeviceIf_8h.html',1,'']]],
+  ['functionblockdevicemock',['FunctionBlockDeviceMock',['../classSdkNs_1_1FunctionBlockDeviceMock.html',1,'SdkNs']]],
+  ['functionblockdevicemock_2eh',['FunctionBlockDeviceMock.h',['../FunctionBlockDeviceMock_8h.html',1,'']]],
+  ['functionblockif',['FunctionBlockIf',['../classSdkNs_1_1FunctionBlockIf.html',1,'SdkNs']]],
+  ['functionblockif_2eh',['FunctionBlockIf.h',['../FunctionBlockIf_8h.html',1,'']]],
+  ['functionblockmanager',['functionBlockManager',['../classSdkNs_1_1UbieSdkIf.html#ab2a458f6df8c58f9b2c3c42c8c15fbc1',1,'SdkNs::UbieSdkIf']]],
+  ['functionblockmanagerif',['FunctionBlockManagerIf',['../classSdkNs_1_1FunctionBlockManagerIf.html',1,'SdkNs']]],
+  ['functionblockmanagerif_2eh',['FunctionBlockManagerIf.h',['../FunctionBlockManagerIf_8h.html',1,'']]],
+  ['functionblockmanagermock',['FunctionBlockManagerMock',['../classSdkNs_1_1FunctionBlockManagerMock.html',1,'SdkNs']]],
+  ['functionblockmanagermock_2eh',['FunctionBlockManagerMock.h',['../FunctionBlockManagerMock_8h.html',1,'']]]
+];

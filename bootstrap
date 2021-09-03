@@ -1,0 +1,36 @@
+#!/bin/bash
+echo "Initialising Ubie SDK"
+cwd=$(pwd)
+
+cd $cwd/Ubie
+tar -xf sys-x86.tar.gz
+tar -xf sys-arm.tar.gz
+cd $cwd/toolchain
+tar -xf gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux.tar.xz
+
+#Debug
+cd $cwd/build
+mkdir -p Debug-x86
+mkdir -p Debug-arm
+mkdir -p Release-x86
+mkdir -p Release-arm
+
+cd $cwd/build/Debug-x86
+cp $cwd/build/toolchain-x86.cmake $cwd/build/Debug-x86
+cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_TOOLCHAIN_FILE=toolchain-x86.cmake ../..
+
+
+cd $cwd/build/Debug-arm
+cp $cwd/build/toolchain-arm.cmake $cwd/build/Debug-arm
+cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_TOOLCHAIN_FILE=toolchain-arm.cmake ../..
+
+#Release
+cd $cwd/build/Release-x86
+cp $cwd/build/toolchain-x86.cmake $cwd/build/Release-x86
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_TOOLCHAIN_FILE=toolchain-x86.cmake ../..
+
+
+cd $cwd/build/Release-arm
+cp $cwd/build/toolchain-arm.cmake $cwd/build/Release-arm
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_TOOLCHAIN_FILE=toolchain-arm.cmake ../..
+

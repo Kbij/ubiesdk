@@ -1,0 +1,41 @@
+<map id="SdkNs::FunctionBlockIf" name="SdkNs::FunctionBlockIf">
+<area shape="rect" id="node2" href="$classSdkNs_1_1AnalogIf.html" title="Represents a component with a value ranging from 0 &#45; 100%. Typicaly a dimmer. Properties: ..." alt="" coords="259,5,377,32"/>
+<area shape="rect" id="node4" href="$classSdkNs_1_1GaugeIf.html" title="Represents a Gauge (Meter). Properties: " alt="" coords="260,56,376,83"/>
+<area shape="rect" id="node6" href="$classSdkNs_1_1GenericFunctionBlockIf.html" title="SdkNs::GenericFunctionBlockIf" alt="" coords="215,107,421,133"/>
+<area shape="rect" id="node7" href="$classSdkNs_1_1HealthBoxRoomIf.html" title="Properties: " alt="" coords="231,157,405,184"/>
+<area shape="rect" id="node9" href="$classSdkNs_1_1HumidityIf.html" title="Properties: " alt="" coords="253,208,383,235"/>
+<area shape="rect" id="node11" href="$classSdkNs_1_1IPCamIf.html" title="Properties: " alt="" coords="259,259,377,285"/>
+<area shape="rect" id="node13" href="$classSdkNs_1_1MultiColorIf.html" title="Properties: " alt="" coords="249,309,387,336"/>
+<area shape="rect" id="node15" href="$classSdkNs_1_1NestThermoIf.html" title="Properties: " alt="" coords="243,360,393,387"/>
+<area shape="rect" id="node17" href="$classSdkNs_1_1OnOffIf.html" title="Represents a component with a binary value. Typicaly a switch. Properties: " alt="" coords="261,411,375,437"/>
+<area shape="rect" id="node19" href="$classSdkNs_1_1SceneIf.html" title="Actions: " alt="" coords="261,461,375,488"/>
+<area shape="rect" id="node21" href="$classSdkNs_1_1ShutterSlatsPositionIf.html" title="Properties: " alt="" coords="219,512,417,539"/>
+<area shape="rect" id="node23" href="$classSdkNs_1_1ShutterUpDownIf.html" title="Properties: " alt="" coords="233,563,403,589"/>
+<area shape="rect" id="node25" href="$classSdkNs_1_1SmokeCoIf.html" title="Properties: " alt="" coords="250,613,386,640"/>
+<area shape="rect" id="node27" href="$classSdkNs_1_1SpeakerGroupIf.html" title="Represents a group of speakers Properties: " alt="" coords="237,664,399,691"/>
+<area shape="rect" id="node29" href="$classSdkNs_1_1SpeakerIf.html" title="Represents a individual speaker. Typically the master speaker in a stereo pair. Properties: ..." alt="" coords="255,715,381,741"/>
+<area shape="rect" id="node31" href="$classSdkNs_1_1SpeakerSystemIf.html" title="Represents a speaker system. Properties: " alt="" coords="233,765,403,792"/>
+<area shape="rect" id="node33" href="$classSdkNs_1_1ThermoIf.html" title="Properties: " alt="" coords="257,816,379,843"/>
+<area shape="rect" id="node35" href="$classSdkNs_1_1VentilationIf.html" title="Properties: " alt="" coords="249,867,387,893"/>
+<area shape="rect" id="node37" href="$classSdkNs_1_1WarmWColdWIf.html" title="Properties: " alt="" coords="235,917,401,944"/>
+<area shape="rect" id="node39" href="$classSdkNs_1_1WeatherStationIf.html" title="Properties: " alt="" coords="234,968,402,995"/>
+<area shape="rect" id="node3" href="$classSdkNs_1_1AnalogMock.html" title="SdkNs::AnalogMock" alt="" coords="509,5,651,32"/>
+<area shape="rect" id="node5" href="$classSdkNs_1_1GaugeMock.html" title="SdkNs::GaugeMock" alt="" coords="510,56,650,83"/>
+<area shape="rect" id="node8" href="$classSdkNs_1_1HealthBoxRoomMock.html" title="SdkNs::HealthBoxRoomMock" alt="" coords="481,157,679,184"/>
+<area shape="rect" id="node10" href="$classSdkNs_1_1HumidityMock.html" title="SdkNs::HumidityMock" alt="" coords="503,208,657,235"/>
+<area shape="rect" id="node12" href="$classSdkNs_1_1IPCamMock.html" title="SdkNs::IPCamMock" alt="" coords="509,259,651,285"/>
+<area shape="rect" id="node14" href="$classSdkNs_1_1MultiColorMock.html" title="SdkNs::MultiColorMock" alt="" coords="499,309,661,336"/>
+<area shape="rect" id="node16" href="$classSdkNs_1_1NestThermoMock.html" title="SdkNs::NestThermoMock" alt="" coords="493,360,667,387"/>
+<area shape="rect" id="node18" href="$classSdkNs_1_1OnOffMock.html" title="SdkNs::OnOffMock" alt="" coords="511,411,649,437"/>
+<area shape="rect" id="node20" href="$classSdkNs_1_1SceneMock.html" title="SdkNs::SceneMock" alt="" coords="511,461,649,488"/>
+<area shape="rect" id="node22" href="$classSdkNs_1_1ShutterSlatsPositionMock.html" title="SdkNs::ShutterSlatsPositionMock" alt="" coords="469,512,691,539"/>
+<area shape="rect" id="node24" href="$classSdkNs_1_1ShutterUpDownMock.html" title="SdkNs::ShutterUpDownMock" alt="" coords="483,563,677,589"/>
+<area shape="rect" id="node26" href="$classSdkNs_1_1SmokeCoMock.html" title="SdkNs::SmokeCoMock" alt="" coords="500,613,660,640"/>
+<area shape="rect" id="node28" href="$classSdkNs_1_1SpeakerGroupMock.html" title="SdkNs::SpeakerGroupMock" alt="" coords="487,664,673,691"/>
+<area shape="rect" id="node30" href="$classSdkNs_1_1SpeakerMock.html" title="SdkNs::SpeakerMock" alt="" coords="505,715,655,741"/>
+<area shape="rect" id="node32" href="$classSdkNs_1_1SpeakerSystemMock.html" title="SdkNs::SpeakerSystemMock" alt="" coords="483,765,677,792"/>
+<area shape="rect" id="node34" href="$classSdkNs_1_1ThermoMock.html" title="SdkNs::ThermoMock" alt="" coords="507,816,653,843"/>
+<area shape="rect" id="node36" href="$classSdkNs_1_1VentilationMock.html" title="SdkNs::VentilationMock" alt="" coords="499,867,661,893"/>
+<area shape="rect" id="node38" href="$classSdkNs_1_1WarmWColdWMock.html" title="SdkNs::WarmWColdWMock" alt="" coords="485,917,675,944"/>
+<area shape="rect" id="node40" href="$classSdkNs_1_1WeatherStationMock.html" title="SdkNs::WeatherStationMock" alt="" coords="484,968,676,995"/>
+</map>

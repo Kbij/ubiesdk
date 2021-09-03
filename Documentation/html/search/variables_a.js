@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['name',['Name',['../structSdkNs_1_1mDnsDevice.html#ad872743d113887d20f53a943b7352a6a',1,'SdkNs::mDnsDevice::Name()'],['../structSdkNs_1_1MultiColorDef_1_1PresetColorValue.html#aa93d7ff8ed9223fe12caa6024140dd21',1,'SdkNs::MultiColorDef::PresetColorValue::name()'],['../structSdkNs_1_1MultiColorDef_1_1PresetMovieValue.html#a7ca0b21e46851dcce72ce9560ea1325e',1,'SdkNs::MultiColorDef::PresetMovieValue::name()'],['../structSdkNs_1_1WarmWColdWDef_1_1PresetColorValue.html#a1af511e18c630626719db251d8db649b',1,'SdkNs::WarmWColdWDef::PresetColorValue::name()'],['../structSdkNs_1_1WarmWColdWDef_1_1PresetMovieValue.html#a96d84d9290db659acce3c196ac369dd7',1,'SdkNs::WarmWColdWDef::PresetMovieValue::name()'],['../structSdkNs_1_1GenericValue.html#a9623f5a25f7136d2d3f0ee1a1e6dc2cf',1,'SdkNs::GenericValue::name()']]]
+];
